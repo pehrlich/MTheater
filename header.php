@@ -6,6 +6,7 @@
     <META name="verify-v1" content="7vbKx/fNEbNRikGfl0FQ5NdVv+BKGUx2NFK1VPzsbHQ="/>
     <link href="styles/style.css" media="screen" rel="stylesheet" type="text/css"/>
     <link href="styles/galleria.classic.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/galleria-1.2.6.min.js"></script>
@@ -134,3 +135,11 @@
             </div>
     </div>
 
+
+    <div class="opening-banner">
+       Re-opening September 2016
+        <div class="small">
+            Group discounts available
+            <br/>Myanmar phone: 09 7976 25490
+        </div>
+     </div>
