@@ -182,6 +182,9 @@ h2 {
     height: 720px;
     margin-top: 200px;
 }
+#mainDiv, .margin-top-for-banner {
+    margin-top: 200px;
+}
 
 #Film_page #content {
     height: 820px;

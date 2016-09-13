@@ -3,7 +3,7 @@ $title = 'Info';
 include('header.php');
 ?>
 
-<table class="big" width="797" align="center">
+<table class="big margin-top-for-banner" width="797" align="center">
 
     <tr>
         <td>
