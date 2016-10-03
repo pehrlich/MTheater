@@ -139,6 +139,6 @@
         Re-Opening October 25, 2016
         <div class="small">
             Group discounts available
-            <br/>Myanmar phone: 09 7976 25490 <span style="font-size: 1.2em; color: white;">/</span> 09 453712025
+            <br/>Myanmar phone: 09 6803607<span style="font-size: 1.2em; color: white;">/</span> 09 45897 4512
         </div>
      </div>

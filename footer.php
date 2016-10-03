@@ -17,7 +17,7 @@
         <br/>
         (new address, east of the moat)<br/>
         Mandalay, Myanmar<br/>
-        TEL: 09-6803607
+        TEL: 09 6803607<span style="font-size: 1.2em; color: white;">/</span> 09 45897 4512
     </p>
 
 </div>
