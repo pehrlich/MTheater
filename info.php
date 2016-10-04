@@ -24,7 +24,7 @@ include('header.php');
                         <br>
                         <br>Performances nightly 7 days a week at 8:30 PM.
                         <br>
-                        <br>Ticket Price: 8000 kyats
+                        <br>Ticket Price: 14,000 kyats
                         <br>
                         <br>Contact the theater for group rates and special performances. </p>
 
