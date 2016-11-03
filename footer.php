@@ -21,7 +21,7 @@
     </p>
 
     <p class="footer-col">
-      Tickets to benefit the
+      Tickets benefit the
       </br>Inwa School of Performing Arts
     </p>
 
