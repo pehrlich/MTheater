@@ -47,7 +47,7 @@
             if (num == 1) {
                 header = "The Mintha Theater is dedicated to classical Myanmar dance.  <br>Performances nightly 7 days a week at 8:30 PM.";
                 footer = "<font size=\"+1\">58th Street</font> between 30th and 29th <br> (new address, east of the moat)<br>Mandalay, Myanmar<br>TEL:	09-6803607";
-                info = "The Mintha Theater performs a rotating repertoire of classical Myanmar dance nightly at 8:30 PM. Shows are an hour long and composed of a series of short dance pieces in lavish traditional costume. The troupe is composed of 7 dancers and 8 gamelan-style musicians under the direction of U Ohn Maung. The dance pieces are beautifully choreographed to illustrate the wide range of the court and folk dance forms that are native to Myanmar. The program changes nightly and spans more than 12 distinct dances, some dating from the days of Bagan.<br><br>Performances nightly 7 days a week at 8:30 PM.<br><br>Ticket Price: 14,000 kyats<br><br>Contact the theater for group rates and special performances.";
+                info = "The Mintha Theater performs a rotating repertoire of classical Myanmar dance nightly at 8:30 PM. Shows are an hour long and composed of a series of short dance pieces in lavish traditional costume. Featuring students and faculty from the Inwa School of Performing Arts with a live classical Myanmar saing waing orchestra. The dance pieces are beautifully choreographed to illustrate the wide range of the court and folk dance forms that are native to Myanmar. The program changes nightly and spans more than 12 distinct dances, some dating from the days of Bagan.<br><br>Performances nightly 7 days a week at 8:30 PM.<br><br>Ticket Price: 14,000 kyats<br><br>Contact the theater for group rates and special performances.";
             }
             else if (num == 2) {
                 header = "Le Mintha Theater est d&#233;di&#233; &#224; la danse de Myanmar classique. <br>Les performances ont lieu chaque jour de la semaine &#224; 20:30 h.";
@@ -136,7 +136,7 @@
 
 
     <div class="opening-banner">
-        Re-Opening October 10, 2016
+        Open for the 2016-2017 Season
         <div class="small">
             Group discounts available
             <br/>Myanmar phone: 09 6803607<span style="font-size: 1.2em; color: white;">/</span> 09 45897 4512

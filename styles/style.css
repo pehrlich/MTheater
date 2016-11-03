@@ -300,7 +300,6 @@ p.leftmargin {
     border-radius: 8px;
     color: white;
     text-shadow: 0px 1px 1px black;
-    padding-left: 3em;
     text-align: left;
 
     background: rgb(63, 63, 63); /* Old browsers */
@@ -329,7 +328,13 @@ p.leftmargin {
 }
 
 #footer p {
-    padding: 1em;
+    padding: 0.5em 1.5em;
+}
+
+.footer-col{
+    display: inline-block;
+    width: 257px;
+    vertical-align: top;
 }
 
 .galleria-lightbox-content {
