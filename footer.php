@@ -1,6 +1,6 @@
 <div id="footer">
 	<div style="float: right; padding: 1em; margin-top: 0.5em; margin-right: 0.5em;">
-		<a href="http://www.tripadvisor.com/ShowUserReviews-g295408-d2469711-r146609169-Mintha_Theater-Mandalay_Mandalay_Region.html">
+		<a href="https://www.tripadvisor.com/Attraction_Review-g295408-d11547130-Reviews-Mintha_Theater-Mandalay_Mandalay_Region.html">
 			<img src="asetts/tripadvisor_badge.gif"/>
 		</a>
 	</div>
