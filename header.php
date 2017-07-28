@@ -136,7 +136,7 @@
 
 
     <div class="opening-banner">
-        Open for the 2016-2017 Season
+        Closed in March for Summer holidays, Reopening in Oct 15th.
         <div class="small">
             Group discounts available
             <br/>Myanmar phone: 09 6803607<span style="font-size: 1.2em; color: white;">/</span> 09 45897 4512
