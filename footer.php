@@ -1,7 +1,8 @@
 <div id="footer">
 	<div style="float: right; padding: 1em; margin-top: 0.5em; margin-right: 0.5em;">
 		<a href="https://www.tripadvisor.com/Attraction_Review-g295408-d11547130-Reviews-Mintha_Theater-Mandalay_Mandalay_Region.html">
-			<img src="asetts/tripadvisor_badge.gif"/>
+			<!-- <img src="asetts/tripadvisor_badge.gif"/> -->
+			<img src="asetts/2018_COE_Logos_Green-bkg_translations_en-US-UK.png" style="width: 147px;margin-top: -16px;border-radius: 20px;"/>
 		</a>
 	</div>
 	<!--

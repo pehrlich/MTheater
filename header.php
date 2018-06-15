@@ -136,7 +136,7 @@
 
 
     <div class="opening-banner">
-        Open for the 2017-2018 season
+        Closed for school break, Re-opening Sept. 15, 2018
         <div class="small">
             Group discounts available
             <br/>Myanmar phone: 09 458974512<span style="font-size: 1.2em; color: white;">/</span>,  09 428153287
